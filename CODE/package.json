@@ -1,12 +1,27 @@
 {
-  "name": "code",
+  "name": "svelte-drag-and-drop",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  "files": [
+        "index.js",
+        "README.md"
+  ],
+  "keywords": [
+    "drag-and-drop",
+    "svelte"
+  ],
+  "author": "Fabiano César <fcfabiano.cesar@gmail.com>",
+  "license": "MIT",
+  "description": "The Drag and Drop API is a lightweight and customizable library that enables developers to easily implement drag-and-drop functionality within web applications. It simplifies the process of making elements draggable and droppable, supporting a variety of use cases such as sortable lists, file uploads, and UI components management.",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fcrfabiano/Drag-and-Drop.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fcrfabiano/Drag-and-Drop/issues"
+  },
+  "homepage": "https://github.com/fcrfabiano/Drag-and-Drop#readme"
 }
