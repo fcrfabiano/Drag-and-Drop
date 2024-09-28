@@ -1,11 +1,13 @@
 {
   "name": "svelte-drag-and-drop",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "src/index.js",
+  "svelte": "src/index.js",  
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "files": [
+        "src/lib",
         "index.js",
         "README.md"
   ],
